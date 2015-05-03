@@ -4,3 +4,4 @@
 4) Read Django Tutorial https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 5) Read about vim on wikipedia
 6) Consider using linux vm
+7) Brainstorm project ideas
