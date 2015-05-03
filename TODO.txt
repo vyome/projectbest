@@ -1,0 +1,2 @@
+1) Set up Python
+2) Read about git at http://git-scm.com/book/en/v2
