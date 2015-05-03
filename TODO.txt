@@ -1,4 +1,4 @@
-1) Set up Python
+1) Set up Python on windows
 2) Read about git at http://git-scm.com/book/en/v2
 3) Install Django
 4) Read Django Tutorial https://docs.djangoproject.com/en/1.8/intro/tutorial01/
