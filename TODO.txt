@@ -5,3 +5,4 @@
 5) Read about vim on wikipedia
 6) Consider using linux vm
 7) Brainstorm project ideas
+8) use on linux
